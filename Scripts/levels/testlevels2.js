@@ -62,7 +62,7 @@ var definedLevels = [
 	['' , '' , '' , '' , '' , '' , '' , '' , '' , 'mushroombox' , '' , '' , '' , 'grass_top' , 'soil'],
 	['' , '' , '' , '' , '' , '' , '' , '' , '' , '' , '' , '' , '' , 'grass_top' , 'soil'],
 	['' , '' , '' , '' , '' , '' , '' , '' , '' , '' , '' , '' , '' , 'grass_top' , 'soil'],
-	['' , '' , '' , '' , '' , '' , '' , '' , '' , '' , '' , '' , 'ballmonster' , 'grass_top' , 'soil'],
+	['' , '' , '' , '' , '' , '' , '' , '' , '' , '' , '' , 'blueturtle' , 'ballmonster' , 'grass_top' , 'soil'],
 	['' , '' , '' , '' , '' , '' , '' , '' , '' , '' , '' , 'pipe_top_left' , 'pipe_left' , 'pipe_left_grass' , 'pipe_left_soil'],
 	['' , '' , '' , '' , '' , '' , '' , '' , '' , '' , '' , 'pipe_top_right' , 'pipe_right' , 'pipe_right_grass' , 'pipe_right_soil'],
 	['' , '' , '' , '' , '' , '' , '' , '' , '' , '' , '' , '' , '' , 'grass_top' , 'soil'],
